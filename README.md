@@ -29,6 +29,6 @@
 
  <div align=center> <h3>👤 notion 이력서(CV)</h3> </div>
 
- https://www.notion.so/e8f145179bbc42a18baa82806ece640f
+ https://ink-romano-d0b.notion.site/e8f145179bbc42a18baa82806ece640f
  </div> 
 
