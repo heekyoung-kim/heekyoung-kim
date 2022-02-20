@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 
-  <div align=center> <h3>👤 github status</h3> </div>
+  <div align=center> <h3> github status</h3> </div>
   <br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heekyoung-kim&hide=contribs&count_private=true&show_icons=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
