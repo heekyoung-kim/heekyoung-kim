@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=vue&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=postgre&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
 
   <br>
